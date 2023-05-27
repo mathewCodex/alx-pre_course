@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Alx School is so cool!
-=======
-ALX School
->>>>>>> update_script
+#!/bin/bash
+echo "ALX is so cool!"
+echo "ALX is open"
